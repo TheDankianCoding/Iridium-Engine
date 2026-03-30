@@ -3,9 +3,9 @@ A Giant Group Of All My Python Projects, And Eventually All My Other Projects As
 
 Progress Status Of All Projects Currently:
 
-Chess:      {|}}}}}}}
-Pac-Man:    |}}}}}}}}
-Snake:      {{{{{{{{|
-Clicker     |}}}}}}}}
-Overall:  {{|}}}}}}}}}}}
-          0%   50%  100%
+Chess:      {|}}}}}}}            
+Pac-Man:    |}}}}}}}}            
+Snake:      {{{{{{{{|            
+Clicker     |}}}}}}}}            
+Overall:  {{|}}}}}}}}}}}                      
+
